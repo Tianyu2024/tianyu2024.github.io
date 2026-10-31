@@ -32,4 +32,4 @@ features:
 ---
 
 [关于第一次网络大战的看法](./posts/mcfuckmn.md)<br>
-[测试](./posts/first.md)<br>
+[测试](./posts/first.md)

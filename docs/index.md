@@ -15,12 +15,13 @@ hero:
       link: /api-examples
 
 features:
-  - title: Feature A
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature B
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - title: 关于作者
+    details: 2012年，会一点java
+  - title: 关于文章
+    details: 受到滚木协议保护
+  - title: 提示
+    details: 。。。。。。
 ---
 
-[去看第一篇文章](./posts/first.md)
+[关于第一次网络大战的看法](./posts/mcfuckmn.md)
+[测试](./posts/first.md)
